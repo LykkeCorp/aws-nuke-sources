@@ -6,7 +6,7 @@ import (
 	"net/http/httputil"
 	"regexp"
 
-	"github.com/rebuy-de/aws-nuke/pkg/util"
+	"github.com/LykkeCorp/aws-nuke-sources/pkg/util"
 	log "github.com/sirupsen/logrus"
 )
 

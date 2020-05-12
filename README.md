@@ -1,14 +1,14 @@
 # aws-nuke
 
 [![Build Status](https://travis-ci.org/rebuy-de/aws-nuke.svg?branch=master)](https://travis-ci.org/rebuy-de/aws-nuke)
-[![license](https://img.shields.io/github/license/rebuy-de/aws-nuke.svg)](https://github.com/rebuy-de/aws-nuke/blob/master/LICENSE)
-[![GitHub release](https://img.shields.io/github/release/rebuy-de/aws-nuke.svg)](https://github.com/rebuy-de/aws-nuke/releases)
+[![license](https://img.shields.io/github/license/rebuy-de/aws-nuke.svg)](https://github.com/LykkeCorp/aws-nuke-sources/blob/master/LICENSE)
+[![GitHub release](https://img.shields.io/github/release/rebuy-de/aws-nuke.svg)](https://github.com/LykkeCorp/aws-nuke-sources/releases)
 
 Remove all resources from an AWS account.
 
 > **Development Status** *aws-nuke* is stable, but it is likely that not all AWS
 resources are covered by it. Be encouraged to add missing resources and create
-a Pull Request or to create an [Issue](https://github.com/rebuy-de/aws-nuke/issues/new).
+a Pull Request or to create an [Issue](https://github.com/LykkeCorp/aws-nuke-sources/issues/new).
 
 ## Caution!
 
@@ -544,13 +544,13 @@ presets:
 ### Use Released Binaries
 
 The easiest way of installing it, is to download the latest
-[release](https://github.com/rebuy-de/aws-nuke/releases) from GitHub.
+[release](https://github.com/LykkeCorp/aws-nuke-sources/releases) from GitHub.
 
 ### Compile from Source
 
 To compile *aws-nuke* from source you need a working
 [Golang](https://golang.org/doc/install) development environment. The sources
-must be cloned to `$GOPATH/src/github.com/rebuy-de/aws-nuke`.
+must be cloned to `$GOPATH/src/github.com/LykkeCorp/aws-nuke-sources`.
 
 Also you need to install [Glide](https://glide.sh/),
 [golint](https://github.com/golang/lint/) and [GNU

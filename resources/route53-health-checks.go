@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"github.com/aws/aws-sdk-go/aws/session"
 	"github.com/aws/aws-sdk-go/service/route53"
-	"github.com/rebuy-de/aws-nuke/pkg/types"
+	"github.com/LykkeCorp/aws-nuke-sources/pkg/types"
 	"github.com/aws/aws-sdk-go/aws"
 )
 

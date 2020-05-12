@@ -9,8 +9,8 @@ import (
 	"github.com/aws/aws-sdk-go/aws/session"
 	"github.com/aws/aws-sdk-go/service/cloudformation"
 	"github.com/aws/aws-sdk-go/service/cloudformation/cloudformationiface"
-	"github.com/rebuy-de/aws-nuke/pkg/config"
-	"github.com/rebuy-de/aws-nuke/pkg/types"
+	"github.com/LykkeCorp/aws-nuke-sources/pkg/config"
+	"github.com/LykkeCorp/aws-nuke-sources/pkg/types"
 	"github.com/sirupsen/logrus"
 )
 

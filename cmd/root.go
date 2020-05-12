@@ -5,9 +5,9 @@ import (
 	"os"
 	"sort"
 
-	"github.com/rebuy-de/aws-nuke/pkg/awsutil"
-	"github.com/rebuy-de/aws-nuke/pkg/config"
-	"github.com/rebuy-de/aws-nuke/resources"
+	"github.com/LykkeCorp/aws-nuke-sources/pkg/awsutil"
+	"github.com/LykkeCorp/aws-nuke-sources/pkg/config"
+	"github.com/LykkeCorp/aws-nuke-sources/resources"
 	log "github.com/sirupsen/logrus"
 	"github.com/spf13/cobra"
 )

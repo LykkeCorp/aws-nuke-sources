@@ -1,3 +1,3 @@
-PACKAGE=github.com/rebuy-de/aws-nuke
+PACKAGE=github.com/LykkeCorp/aws-nuke-sources
 
 include golang.mk

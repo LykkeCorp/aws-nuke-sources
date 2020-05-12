@@ -3,7 +3,7 @@ package resources
 import (
 	"github.com/aws/aws-sdk-go/aws/session"
 	"github.com/aws/aws-sdk-go/service/ec2"
-	"github.com/rebuy-de/aws-nuke/pkg/types"
+	"github.com/LykkeCorp/aws-nuke-sources/pkg/types"
 )
 
 type EC2InternetGateway struct {
